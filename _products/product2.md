@@ -1,8 +1,8 @@
 ---
-identifier: jekyll-starry-night-2
-name: John Doe Mug
-price: 10
+identifier: vgs-stickers-5
+name: Very Good Science Hex-stickers (5-pack)
+price: 20
 image: /assets/img/products/product2.jpg
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+Show your support for Very Good Science, and share it with your friends and colleagues. These are vinyl hex stickers which will look great on your laptop, phone, water bottle, etc.
