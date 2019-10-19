@@ -1,8 +1,9 @@
 ---
-identifier: john-doe-tshrirt
-name: John Doe Tshirt
-price: 50
-image: /assets/img/products/product1.jpg
+identifier: vgs-stickers-1
+name: One Very Good Science hex-sticker
+price: 10
+image: /assets/img/products/hex-stickers.jpg
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+Show that you support Very Good Science - and prompt people to ask you all about it. This is a vinyl hex sticker, which will look great on a laptop, water bottle, phone, etc.
+
